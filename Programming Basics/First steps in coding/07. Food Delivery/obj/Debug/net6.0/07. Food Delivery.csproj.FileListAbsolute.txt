@@ -1,0 +1,15 @@
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.exe
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.deps.json
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.runtimeconfig.json
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.dll
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.pdb
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.csproj.AssemblyReference.cache
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.AssemblyInfoInputs.cache
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.AssemblyInfo.cs
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.dll
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\obj\Debug\net6.0\refint\07. Food Delivery.dll
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.pdb
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.genruntimeconfig.cache
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\07. Food Delivery\obj\Debug\net6.0\ref\07. Food Delivery.dll
