@@ -1,0 +1,15 @@
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\bin\Debug\net6.0\01. USD to BGN.exe
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\bin\Debug\net6.0\01. USD to BGN.deps.json
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\bin\Debug\net6.0\01. USD to BGN.runtimeconfig.json
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\bin\Debug\net6.0\01. USD to BGN.dll
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\bin\Debug\net6.0\01. USD to BGN.pdb
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.csproj.AssemblyReference.cache
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.AssemblyInfoInputs.cache
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.AssemblyInfo.cs
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.csproj.CoreCompileInputs.cache
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.dll
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\obj\Debug\net6.0\refint\01. USD to BGN.dll
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.pdb
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\obj\Debug\net6.0\01. USD to BGN.genruntimeconfig.cache
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\01. USD to BGN\obj\Debug\net6.0\ref\01. USD to BGN.dll
