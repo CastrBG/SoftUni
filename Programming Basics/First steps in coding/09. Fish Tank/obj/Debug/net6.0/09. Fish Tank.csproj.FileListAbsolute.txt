@@ -1,0 +1,15 @@
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\bin\Debug\net6.0\09. Fish Tank.exe
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\bin\Debug\net6.0\09. Fish Tank.deps.json
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\bin\Debug\net6.0\09. Fish Tank.runtimeconfig.json
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\bin\Debug\net6.0\09. Fish Tank.dll
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\bin\Debug\net6.0\09. Fish Tank.pdb
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.csproj.AssemblyReference.cache
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.AssemblyInfoInputs.cache
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.AssemblyInfo.cs
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.dll
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\obj\Debug\net6.0\refint\09. Fish Tank.dll
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.pdb
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.genruntimeconfig.cache
+C:\Users\Рангел\Desktop\SoftUni\Programming basics\First steps in coding - Exercise\09. Fish Tank\obj\Debug\net6.0\ref\09. Fish Tank.dll
