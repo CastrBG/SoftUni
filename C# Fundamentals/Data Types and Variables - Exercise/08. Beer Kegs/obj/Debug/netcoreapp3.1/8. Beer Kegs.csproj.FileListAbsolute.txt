@@ -1,0 +1,14 @@
+D:\CodeWars\8. Beer Kegs\bin\Debug\netcoreapp3.1\8. Beer Kegs.exe
+D:\CodeWars\8. Beer Kegs\bin\Debug\netcoreapp3.1\8. Beer Kegs.deps.json
+D:\CodeWars\8. Beer Kegs\bin\Debug\netcoreapp3.1\8. Beer Kegs.runtimeconfig.json
+D:\CodeWars\8. Beer Kegs\bin\Debug\netcoreapp3.1\8. Beer Kegs.runtimeconfig.dev.json
+D:\CodeWars\8. Beer Kegs\bin\Debug\netcoreapp3.1\8. Beer Kegs.dll
+D:\CodeWars\8. Beer Kegs\bin\Debug\netcoreapp3.1\8. Beer Kegs.pdb
+D:\CodeWars\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.csproj.AssemblyReference.cache
+D:\CodeWars\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeWars\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.AssemblyInfoInputs.cache
+D:\CodeWars\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.AssemblyInfo.cs
+D:\CodeWars\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.csproj.CoreCompileInputs.cache
+D:\CodeWars\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.dll
+D:\CodeWars\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.pdb
+D:\CodeWars\8. Beer Kegs\obj\Debug\netcoreapp3.1\8. Beer Kegs.genruntimeconfig.cache

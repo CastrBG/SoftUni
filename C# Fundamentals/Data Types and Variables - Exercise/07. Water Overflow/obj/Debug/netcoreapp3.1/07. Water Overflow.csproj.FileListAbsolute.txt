@@ -1,0 +1,14 @@
+D:\CodeWars\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.exe
+D:\CodeWars\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.deps.json
+D:\CodeWars\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.json
+D:\CodeWars\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.dev.json
+D:\CodeWars\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.dll
+D:\CodeWars\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.pdb
+D:\CodeWars\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.csproj.AssemblyReference.cache
+D:\CodeWars\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeWars\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfoInputs.cache
+D:\CodeWars\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfo.cs
+D:\CodeWars\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.csproj.CoreCompileInputs.cache
+D:\CodeWars\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.dll
+D:\CodeWars\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.pdb
+D:\CodeWars\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.genruntimeconfig.cache
