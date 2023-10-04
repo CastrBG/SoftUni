@@ -1,0 +1,14 @@
+D:\CodeWars\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.exe
+D:\CodeWars\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.deps.json
+D:\CodeWars\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.runtimeconfig.json
+D:\CodeWars\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.runtimeconfig.dev.json
+D:\CodeWars\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.dll
+D:\CodeWars\5. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.pdb
+D:\CodeWars\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.csproj.AssemblyReference.cache
+D:\CodeWars\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeWars\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.AssemblyInfoInputs.cache
+D:\CodeWars\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.AssemblyInfo.cs
+D:\CodeWars\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+D:\CodeWars\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.dll
+D:\CodeWars\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.pdb
+D:\CodeWars\5. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\5. Print Part of the ASCII Table.genruntimeconfig.cache

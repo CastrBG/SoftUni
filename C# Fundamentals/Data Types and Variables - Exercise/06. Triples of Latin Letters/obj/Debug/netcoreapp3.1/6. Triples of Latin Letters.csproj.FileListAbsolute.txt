@@ -1,0 +1,14 @@
+D:\CodeWars\6. Triples of Latin Letters\bin\Debug\netcoreapp3.1\6. Triples of Latin Letters.exe
+D:\CodeWars\6. Triples of Latin Letters\bin\Debug\netcoreapp3.1\6. Triples of Latin Letters.deps.json
+D:\CodeWars\6. Triples of Latin Letters\bin\Debug\netcoreapp3.1\6. Triples of Latin Letters.runtimeconfig.json
+D:\CodeWars\6. Triples of Latin Letters\bin\Debug\netcoreapp3.1\6. Triples of Latin Letters.runtimeconfig.dev.json
+D:\CodeWars\6. Triples of Latin Letters\bin\Debug\netcoreapp3.1\6. Triples of Latin Letters.dll
+D:\CodeWars\6. Triples of Latin Letters\bin\Debug\netcoreapp3.1\6. Triples of Latin Letters.pdb
+D:\CodeWars\6. Triples of Latin Letters\obj\Debug\netcoreapp3.1\6. Triples of Latin Letters.csproj.AssemblyReference.cache
+D:\CodeWars\6. Triples of Latin Letters\obj\Debug\netcoreapp3.1\6. Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeWars\6. Triples of Latin Letters\obj\Debug\netcoreapp3.1\6. Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\CodeWars\6. Triples of Latin Letters\obj\Debug\netcoreapp3.1\6. Triples of Latin Letters.AssemblyInfo.cs
+D:\CodeWars\6. Triples of Latin Letters\obj\Debug\netcoreapp3.1\6. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\CodeWars\6. Triples of Latin Letters\obj\Debug\netcoreapp3.1\6. Triples of Latin Letters.dll
+D:\CodeWars\6. Triples of Latin Letters\obj\Debug\netcoreapp3.1\6. Triples of Latin Letters.pdb
+D:\CodeWars\6. Triples of Latin Letters\obj\Debug\netcoreapp3.1\6. Triples of Latin Letters.genruntimeconfig.cache
